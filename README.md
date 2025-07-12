@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @RUTHBLESSY
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hey there, I’m Ruth Blessy!
 
-<!---
-RUTHBLESSY/RUTHBLESSY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 Interests:
+- Software Engineering & Web Development  
+- Data Science & Business Intelligence  
+- Creative Writing & Storytelling  
+- Exploring tech with purpose ✝️
+
+### 🌱 Currently Learning:
+- Automata Theory & Compiler Design  
+- Data Warehousing & Business Intelligence  
+- Information Retrieval Systems  
+- R Programming & Advanced Communication Skills
+
+### 💞️ Looking to Collaborate On:
+- Real-world projects that make a difference  
+- Hackathons & tech events  
+- Open-source contributions
+
+### 📫 Reach Me:
+- 📧 Email: ruthblessykota@gmail.com  
+
+### 😄 Pronouns:
+She/Her ✨
+
+### ⚡ Fun Fact:
+I’m a sunset lover, a storyteller at heart, and a fighter with faith. I believe every line of code can carry purpose — just like every chapter of life.  
