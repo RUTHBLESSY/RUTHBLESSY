@@ -18,7 +18,7 @@
 - Open-source contributions
 
 ### 📫 Reach Me:
-- 📧 Email: ruthblessykota@gmail.com  
+- 📧 Email: ruthblessy.14122k5@gmail.com  
 
 ### 😄 Pronouns:
 She/Her ✨
